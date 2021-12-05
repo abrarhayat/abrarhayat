@@ -13,3 +13,7 @@ I am Abrar Hayat from Dhaka, Bangladesh. I got into the software industry after 
 - 📫 How to reach me: abrarhayat@gmail.com, [@abrar_hayat](https://twitter.com/abrar_hayat)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I completed my undergraduate thesis on Quantum Physics but never pursued it professionally
+
+![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarhayat&count_private=true&show_icons=true&theme=chartreuse-dark)
+
+![Abrar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhayat&exclude_repo=time-series-collection,convolutional_neural_network,data_analysis_with_python,&langs_count=20&hide=ruby,starlark,swift,kotlin,c&layout=compact&theme=chartreuse-dark)
