@@ -16,4 +16,4 @@ I am Abrar Hayat from Dhaka, Bangladesh. I got into the software industry after 
 
 <!-- ![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarhayat&count_private=true&show_icons=true&theme=chartreuse-dark) -->
 
-![Abrar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhayat&exclude_repo=time-series-collection,convolutional_neural_network,data_analysis_with_python,&langs_count=20&hide=ruby,starlark,swift,kotlin,c&layout=compact&theme=chartreuse-dark)
+![Abrar's Top Langs](https://github-stats-abrarhayat.vercel.app/api/top-langs/?username=abrarhayat&exclude_repo=text-editor,maps,sharing-app-capstone,VideoServlet,dlaicourse,tensorflow-1-public,time-series-collection,convolutional_neural_network,data_analysis_with_python,intro-ml-2,nlp,ml_notebooks,python_data_science,intro_to_tensorflow,&langs_count=20&hide=ruby,starlark,swift,kotlin,c&layout=compact&theme=chartreuse-dark&card_width=350px)
