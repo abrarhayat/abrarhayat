@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am Abrar Hayat from Dhaka, Bangladesh. I got into the software industry after I graduated from Electrical Engineering at the end of 2016, since then my interests have settled here. I mainly work on Web Applications but it often reaches to Mobile App Development, Deep Learning and Game Development. In my free time, I like to take photos or sing and play on my guitar. Learning gives me a different level of satisfaction, so learning new things is never going to stop for me. After working for 5 years in the Software Industry, I've finally decided to get my Masters degree and am currently pursuing a Master of I.T in AI at University of Melbourne in Australia.
+I am Abrar Hayat from Dhaka, Bangladesh. I work as a Software Developer at <a href="https://le.unimelb.edu.au/" target="_blank">Learning Environments</a> at University of Melbourne in Victoria, Australia. I got into the software industry after I graduated from Electrical Engineering at the end of 2016 and since then my interests have settled here. I mainly work on Web Applications but it often reaches Mobile App Development, Deep Learning and Game Development. In my free time, I like to take photos or sing and play my guitar. Learning gives me a different level of satisfaction, so learning new things is never going to stop for me. After working for 6 years in the Software Industry, I've finally decided to get my Master's degree and am currently pursuing a Master of I.T. in AI at University of Melbourne in Australia.
 
 - 🔭 I’m currently working on Full Stack Web Applications and Mobile Apps
 - 🌱 I’m currently learning the latest web technologies, deep learning and game development
