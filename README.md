@@ -4,10 +4,10 @@
 
 ### Hi there 👋
 
-I am Abrar Hayat from Dhaka, Bangladesh. I work as a Software Developer at <a href="https://le.unimelb.edu.au/" target="_blank">Learning Environments</a> at University of Melbourne in Victoria, Australia. I got into the software industry after I graduated from Electrical Engineering at the end of 2016 and since then my interests have settled here. I mainly work on Web Applications but it often reaches Mobile App Development, Deep Learning and Game Development. In my free time, I like to take photos or sing and play my guitar. Learning gives me a different level of satisfaction, so learning new things is never going to stop for me. After working for 6 years in the Software Industry, I've finally decided to get my Master's degree and am currently pursuing a Master of I.T. in AI at University of Melbourne in Australia.
+I am Abrar Hayat from Dhaka, Bangladesh. I work as a Software Developer at <a href="https://le.unimelb.edu.au/" target="_blank">Learning Environments</a> at the University of Melbourne in Victoria, Australia. I got into the software industry after I graduated from Electrical Engineering at the end of 2016 and since then my interests have settled here. I also completed a Master of IT in Artificial Intelligence in 2024. I mainly work on Web Applications but it often reaches Deep Learning, Mobile App Development and Game Development. In my free time, I like to take photos or sing and play my guitar. Learning gives me a different level of satisfaction, so learning new things is never going to stop for me.
 
-- 🔭 I’m currently working on Full Stack Web Applications and Mobile Apps
-- 🌱 I’m currently learning the latest web technologies, deep learning and game development
+- 🔭 I am currently developing high-performance Full Stack Web Applications.
+- 🌱 I’m currently learning about the latest web technologies and deep learning models
 - 👯 I’m looking to collaborate on interesting takes on new and innovative tech applied to our everyday lives
 - 💬 Ask me about where you can start on your journey to become a Software Developer
 - 📫 How to reach me: abrarhayat@gmail.com, [@abrar_hayat](https://twitter.com/abrar_hayat)
