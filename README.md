@@ -1,10 +1,10 @@
 <p align="center">
-<img width="150" height="150" src="https://media.giphy.com/media/MoB9yr8W80niqcevSI/giphy.gif">
+  <img src="https://media.giphy.com/media/MoB9yr8W80niqcevSI/giphy.gif" width="150" height="150" alt="Abrar's avatar" />
 </p>
 
 ### Hi there 👋
 
-I am Abrar Hayat from Dhaka, Bangladesh. I work as a Software Developer at <a href="https://le.unimelb.edu.au/" target="_blank">Learning Environments</a> at the University of Melbourne in Victoria, Australia. I got into the software industry after I graduated from Electrical Engineering at the end of 2016 and since then my interests have settled here. I also completed a Master of IT in Artificial Intelligence in 2024. I mainly work on Web Applications but it often reaches Deep Learning, Mobile App Development and Game Development. In my free time, I like to take photos or sing and play my guitar. Learning gives me a different level of satisfaction, so learning new things is never going to stop for me.
+I am Abrar Hayat from Dhaka, Bangladesh. I work as a Software Developer at [Teaching and Learning Innovation](https://www.unimelb.edu.au/tli) at the University of Melbourne in Victoria, Australia. I got into the software industry after I graduated from Electrical Engineering at the end of 2016 and since then my interests have settled here. I also completed a Master of IT in Artificial Intelligence in 2024. I mainly work on Web Applications but it often reaches Deep Learning, Mobile App Development and Game Development. In my free time, I like to take photos or sing and play my guitar. Learning gives me a different level of satisfaction, so learning new things is never going to stop for me.
 
 - 🔭 I am currently developing high-performance Full Stack Web Applications.
 - 🌱 I’m currently learning about the latest web technologies and deep learning models
